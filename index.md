@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## 欢迎来到Jirache的博客
 
-You can use the [editor on GitHub](https://github.com/Jirache321/jirachi321.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# 个人介绍
+大家好，我来自中国，在中国上完了小学初中高中和本科，现在正在攻读美国研究生的学位，专业是Computer Science。
+在这个页面我将发布一些个人的技术学习心得与一些日常生活感悟，当作一种消遣与放松，请大家多多指教。
+我的专业在本科时就是计算机科学与技术，当时选择这个专业时，我的想法和其他很多跟我选择同样专业的同学一样，都是能够学习足够多的知识。
+并且在未来的职场竞争中获得一份收益可观的职业回报。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 个人兴趣爱好
+我的个人兴趣爱好广泛，无论是室内活动还是室外活动都是可以胜任的，我的爱好有：
+室内：
+画画，读书，看新闻，看电影，看报纸，看电视，吃爆米花等等。
+室外：
+跑步，散步，打篮球，打羽毛球，打台球，乒乓球，等等。
+网络爱好：
+我特意将网络爱好单列了出来，因为我们的时代让我们在互联网世界上也拥有色彩斑斓的生活。
+看动漫，玩和平精英，战地一等等。
 
-### Markdown
+### 我的技术兴趣方向
+我的技术兴趣方向也很广泛，但主要都和我在大学本科期间和读研究生期间接触到的技术相关。
+- 1.人工智能与人机交互处理（Artifical Intelligence and Human Computer Interface Design）
+- 2.算法与其编程语言实现,也就是刷题哈哈XD(Algotithms and its implemntation through the Programatic Languages)
+- 3.网页开发与数据库技术,看看很多前端大佬们的亮瞎钛合金狗眼的炫酷特效我虽然一直在流口水但并不妨碍我企图尝试XD(Web Developement and Databse System)
+- 4.游戏开发与虚拟现实（Computer Game Development and Virtual Reality）
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Jirache321/jirachi321.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 联系方式
+liziyue23@outlook.com
+谢谢光临此网页！
