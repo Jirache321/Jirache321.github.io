@@ -41,13 +41,10 @@ Watch anime, play Peace Elite, Battlefield One and so on.
 
 ### My technical interests
 My technical interests are also very broad, but they are mainly related to the technologies I came into contact with during my undergraduate and graduate studies.
--1. Artifical Intelligence and Human Computer Interface Design
-
--2. Algorithm and its programming language implementation, that is, XD (Algotithms and its implemntation through the Programatic Languages)
-
--3. Web development and database technology, look at the cool special effects of bright blind titanium alloy dog eyes by many front-end bigwigs. Although I have been drooling, it does not prevent me from trying to try XD (Web Developement and Databse System)
-
--4. Computer Game Development and Virtual Reality (Computer Game Development and Virtual Reality)
+- 1. Artifical Intelligence and Human Computer Interface Design
+- 2. Algorithm and its programming language implementation, that is, XD (Algotithms and its implemntation through the Programatic Languages)
+- 3. Web development and database technology, look at the cool special effects of bright blind titanium alloy dog eyes by many front-end bigwigs. Although I have been drooling, it does not prevent me from trying to try XD (Web Developement and Databse System)
+- 4. Computer Game Development and Virtual Reality (Computer Game Development and Virtual Reality)
 
 ### 联系方式 Contact Information
 liziyue23@outlook.com
