@@ -6,7 +6,7 @@
 我的专业在本科时就是计算机科学与技术，当时选择这个专业时，我的想法和其他很多跟我选择同样专业的同学一样，都是能够学习足够多的知识。
 并且在未来的职场竞争中获得一份收益可观的职业回报。
 
-# self introduction
+# Self introduction
 Hello everyone, I am from China. I have completed elementary, middle school, high school and undergraduate studies in China. I am now studying for a graduate degree in the United States, majoring in Computer Science.
 On this page, I will post some personal technical learning experience and some daily life insights, as a kind of pastime and relaxation, please give me your advice.
 My major was computer science and technology when I was undergraduate. When I chose this major, my idea was the same as that of many other students who chose the same major as me. They were able to learn enough knowledge.
