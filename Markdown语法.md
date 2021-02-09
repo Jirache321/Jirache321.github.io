@@ -68,7 +68,6 @@
 
 “![图片alt](图片地址"图片title“)” “图片alt就是显示在图片下面的注释，图片title就是鼠标移动到图片上时所显示的内容” exp:
 
-![blockchain](https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/
-u=702257389,1274025419&fm=27&gp=0.jpg "区块链")
+![picture](./picture.jpg "picture")
 
 
