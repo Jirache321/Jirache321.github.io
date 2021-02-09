@@ -70,6 +70,6 @@
 
 ![PictureAlt](./picture.jpg "图片title")
 
-“【超链接名】（超链接地址 “超链接title”）” exp:
+“【超链接名】（超链接地址 “超链接title”）” “title可不加” exp:
 
-[简书](http://jianshu.com)
+[简书](http://jianshu.com "简书")
