@@ -53,6 +53,8 @@ My technical interests are also very broad, but they are mainly related to the t
 
 [Markdown语法](./Markdown语法.md)
 
+[日记](./日记.md)
+
 
 ### 联系方式 Contact Information
 liziyue23@outlook.com
