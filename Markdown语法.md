@@ -158,7 +158,7 @@
  
 ```
 
-“流程图”
+“流程图”【github目前不支持】
 flow
 st=>start: 开始
 op=>operation: My operation
