@@ -70,4 +70,6 @@
 
 ![PictureAlt](./picture.jpg "图片title")
 
+“【超链接名】（超链接地址 “超链接title”）” exp:
 
+[简书](http://jianshu.com)
