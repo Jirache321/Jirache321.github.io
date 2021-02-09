@@ -34,10 +34,10 @@ Watch anime, play Peace Elite, Battlefield One and so on.
 
 ### 我的技术兴趣方向
 我的技术兴趣方向也很广泛，但主要都和我在大学本科期间和读研究生期间接触到的技术相关。
-- 1.人工智能与人机交互处理（Artifical Intelligence and Human Computer Interface Design）
-- 2.算法与其编程语言实现,也就是刷题哈哈XD(Algotithms and its implemntation through the Programatic Languages)
-- 3.网页开发与数据库技术,看看很多前端大佬们的亮瞎钛合金狗眼的炫酷特效我虽然一直在流口水但并不妨碍我企图尝试XD(Web Developement and Databse System)
-- 4.游戏开发与虚拟现实（Computer Game Development and Virtual Reality）
+- 1. 人工智能与人机交互处理（Artifical Intelligence and Human Computer Interface Design）
+- 2. 算法与其编程语言实现,也就是刷题哈哈XD(Algotithms and its implemntation through the Programatic Languages)
+- 3. 网页开发与数据库技术,看看很多前端大佬们的亮瞎钛合金狗眼的炫酷特效我虽然一直在流口水但并不妨碍我企图尝试XD(Web Developement and Databse System)
+- 4. 游戏开发与虚拟现实（Computer Game Development and Virtual Reality）
 
 ### My technical interests
 My technical interests are also very broad, but they are mainly related to the technologies I came into contact with during my undergraduate and graduate studies.
