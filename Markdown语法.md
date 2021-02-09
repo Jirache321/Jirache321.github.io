@@ -68,6 +68,6 @@
 
 “! 【图片alt】(图片地址 "图片title" ) ”         “图片alt就是显示在图片下面的注释，图片title就是鼠标移动到图片上时所显示的内容” exp:
 
-![Alt Picture](./picture.jpg "图片title")
+![alt="Picture"](./picture.jpg "图片title")
 
 
