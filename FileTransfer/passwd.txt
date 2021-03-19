@@ -1,0 +1,8 @@
+core:x:1000:1000:,,,:/home/core:/bin/bash
+daemon:x:1:1:daemon:/usr/sbin:/bin/sh
+freerad:x:108:119::/etc/freeradius:/bin/false
+games:x:5:60:games:/usr/games:/bin/sh
+gnats:x:41:41:Gnats Bug-Reporting System (admin):/var/lib/gnats:/bin/sh
+irc:x:39:39:ircd:/var/run/ircd:/bin/sh
+john2:x:1002:1002::/home/john2:/bin/sh
+john:x:1001:1001::/home/john:/bin/sh
